@@ -1,0 +1,3 @@
+com\iplacex\cucumber\AppTest.class
+StepDefinition\Steps.class
+TestRunner\Runner.class
